@@ -1,0 +1,95 @@
+.maindiv{
+    width: 100%;
+    max-width: 1440px;    
+    margin: auto;
+    background: #F4F4F499;
+    padding:80px;
+    
+    }
+    
+    .inner-container{
+    max-width:1280px ; 
+    top: 80px;
+    left: 80px;
+    gap: 0px;
+    margin: 0;
+    width: 100%;
+    }
+
+
+.main-inner{
+ display: flex;   
+ justify-content: center;
+ align-items: center;
+}
+    
+.Documentation{
+    font-family: "Poppins", sans-serif;
+    background: -webkit-linear-gradient(rgb(211, 94, 16), rgb(221, 56, 56),rgb(29,78,216,1),rgb(201, 59, 92)) ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    margin: 0;
+    font-size: 72px;
+    }
+    
+    .btn{ 
+        gap: 16px;
+        border-radius: 96px;
+        padding-top: 16px;
+        padding-bottom: 16px; 
+        max-width: 439px;    
+       text-align: center;
+       display: flex;
+       justify-content: center;
+       
+    }
+    
+    .one{
+        width:98px;
+        gap: 10px;
+        border-radius: 73px;
+        background-color: black;
+        color: white;
+        padding-top: 16px;
+        padding-bottom: 16px;  
+    }
+    
+    .tell{
+        max-width: 403px;
+        width: 100%;
+        padding: 16px;
+        gap: 10px;
+        border-radius: 96px;
+        border: 1px ;  
+        
+    }
+    
+    .flex-2{
+    width: 100%;
+    width: 251px;
+    top: 80px;
+    border-radius: 24px;
+    border: 1px;
+    border: 1px solid #c3c8d3;
+    text-align: left;
+    padding: 32px;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    }
+    .maindivtwo{
+    display: flex;   
+    justify-content: center;
+    gap: 32px; 
+    
+    }
+    
+    .a{
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: left;
+    color: black;
+    
+    }

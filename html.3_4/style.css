@@ -1,0 +1,106 @@
+.maindiv{
+max-width: 1440px;
+margin: 0 auto;
+width: 100%;
+background: #F4F4F499;
+
+}
+
+.inner-contner{
+max-width: 1280px;
+width: 100%;
+margin:0 auto;
+padding-top: 80px;
+padding-bottom: 80px;
+display: flex;
+gap: 134px;
+padding-right: 80px;
+align-items: center;
+}
+
+.h1{
+    font-family: "Poppins", sans-serif; 
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 60px;
+    letter-spacing: -1px;
+    text-align: left;
+    margin: 0px;   
+    max-width: 522px;
+}
+
+
+.para{
+font-family: "Poppins", sans-serif; 
+margin: 0px;
+font-size: 18px;
+font-weight: 400;
+line-height: 29.61px;
+text-align: left;
+padding-top: 24px;
+max-width: 515px;
+}
+
+.button{
+    max-width: 133px;
+    border-radius: 24px ;
+    width: 100%;
+    border: 2px solid #1F2937;
+    color: rgb(245, 240, 240);
+    background: rgb(10, 10, 10);
+    margin-top: 48px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+}
+  
+.button:hover{
+background: red; 
+color: green;   
+}
+
+
+
+.formm{
+background: #FFFFFF80;
+max-width: 624px;
+padding: 40px 32px 40px 32px;
+border-radius: 24px;
+border: 1.5px 0px 0px 0px;
+width: 100%;    
+}
+
+.divone{
+    padding-left: 80px;
+    
+}
+
+.svgflex{
+    display: flex;
+    gap: 32px;
+    padding-top: 32px;
+    align-items: center;
+    
+}
+
+
+.para2{
+ font-family: "Poppins", sans-serif; 
+font-size: 18px;
+font-weight: 400;
+line-height: 18px;
+text-align: left;
+margin: 0px;
+}
+
+
+.tipics{
+    font-family: "Poppins", sans-serif; 
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    margin: 0;
+    
+}

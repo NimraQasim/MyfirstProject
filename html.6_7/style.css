@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.fluid {
+  padding: 30px;
+  width: 100%;
+  background-color: brown;
+  height: 200px;
+  display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.container {
+  background-color: wheat;
+  color: #000;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 30px;
+ 
+
+}

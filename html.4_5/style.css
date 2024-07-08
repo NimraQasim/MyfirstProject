@@ -1,0 +1,86 @@
+.maindiv{
+width: 1440px;
+width: 100%;
+margin:0 auto;
+}
+
+.inner-conter{
+width: 1,440px;
+width: 100%;
+margin:0 auto;
+background: linear-gradient(0.29deg, rgba(255, 255, 255, 0.5) 0.12%, #FFFFFF 42.16%, #FFFFFF 103.52%);
+padding-top: 80px;
+padding-bottom: 80px;
+
+
+       
+}
+
+.h1{
+    font-family: "Poppins", sans-serif; 
+    margin: 0;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: -1px;
+    text-align: center;
+    
+}
+
+.para{
+margin: 0 auto;
+font-size: 18px;
+font-weight: 400;
+line-height: 29.61px;
+text-align: center;
+font-family: "Poppins", sans-serif;
+max-width: 1057px;
+padding-top: 24px;
+}
+
+.flex_1{
+    display: flex;
+    gap: 32px;
+}
+
+.flex_4{
+    display: flex;
+    gap: 32px;
+    justify-content: center;
+    padding-top: 64px;
+    max-width: 1280px;
+margin: 0 auto; 
+justify-content: space-between;
+}
+
+
+.heading{
+font-family: "Poppins", sans-serif; 
+font-size: 24px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+margin: 0;
+}
+
+.para1{
+font-family: "Poppins", sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 18px;
+text-align: left;
+
+}
+
+.svg{
+    display: flex;
+    gap: 24px;
+}
+
+.flex_2{
+ display: flex;   
+flex-direction: column; 
+gap: 56px;
+
+}
+

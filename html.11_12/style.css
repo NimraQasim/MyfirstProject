@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.maindiv{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+    background: linear-gradient(0.31deg, rgba(255, 255, 255, 0.5) 11.45%, #FFFFFF 38.33%, #FFFFFF 103.5%);
+}
+
+.inner_container{
+
+    margin: 0 auto;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-right: 184px;
+    padding-left: 184px;
+}
+
+
+.first_block{
+    max-width: 232px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffff;
+    border-radius: 24px;
+    height: 166px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 44px;
+    padding-right: 44px;
+}
+
+.main_flex{
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+   
+}
+
+
+.flex_1{
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+    align-items: center;
+}

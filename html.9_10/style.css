@@ -1,0 +1,164 @@
+*{
+padding: 0;
+margin: 0;
+}
+
+.maindiv{
+max-width: 1440px;
+width: 100%;
+margin: 0 auto;
+background: linear-gradient(0.31deg, rgba(255, 255, 255, 0.5) 11.45%, #FFFFFF 38.33%, #FFFFFF 103.5%);
+}
+
+.inner_container{
+max-width: 1280px;
+width: 100%;
+margin:0 auto;
+padding: 80px;    
+}
+
+.heading_1{
+font-family: "Poppins", sans-serif; 
+font-size: 48px;
+font-weight: 500;
+line-height: 48px;
+text-align: center;  
+
+}
+
+.Search{
+max-width: 394px;
+width: 100%;
+border-radius: 12px;
+padding-top: 16px;
+padding-bottom: 16px;
+padding-left: 16px;
+}
+
+.flex_1{
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 16px;
+padding-top: 48px;
+
+   
+}
+
+.para{
+max-width: 326px;
+width: 100%;
+font-family: "Poppins", sans-serif; 
+font-size: 14px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+}
+
+.getting_started{
+display: flex;
+gap: 16px;
+border: 1px solid rgb(243, 242, 242);
+border-radius: 12px;
+padding: 32px;
+
+
+}
+.get_started{
+display: flex;
+flex-direction: column;
+gap: 16px;
+}
+
+
+.main_flex{
+display: flex;
+justify-content: center;
+gap: 32px;
+margin-top: 48px;
+
+}
+
+.flex_2{
+display: flex;
+flex-direction: column;
+gap: 32px;
+}
+
+.flex_2{
+font-family: "Poppins", sans-serif; 
+font-size: 20px;
+font-weight: 500;
+line-height: 20px;
+text-align: left;
+
+}
+
+
+
+
+
+.divv{
+max-width: 680px;
+width: 100%;
+margin: 0 auto;
+}
+
+
+.Didn’t{
+font-family: "Poppins", sans-serif; 
+font-size: 30px;
+font-weight: 500;
+line-height: 30px;
+text-align: left;
+text-align: center;
+margin-top: 48px;
+}
+    
+
+.para_1{
+font-family: "Poppins", sans-serif; 
+font-size: 18px;
+font-weight: 400;
+line-height: 18px;
+text-align: left;
+text-align: center;
+margin-top: 16px;
+}
+
+.flexx_5{
+display: flex;
+justify-content: center;
+gap: 32px;
+margin-top: 32px;
+}
+
+.button{
+
+display: flex;
+justify-content: center;
+margin-top: 32px;
+
+}
+
+
+
+.btn{
+border: 1px solid black;
+border-radius: 24px;
+padding-top: 12px;
+padding-bottom: 12px;
+background-color: black;
+color: white;
+max-width: 126px;
+width: 100%;
+}
+
+
+
+
+/* .Contact{
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+} */
