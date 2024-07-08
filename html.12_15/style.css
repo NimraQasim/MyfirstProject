@@ -1,0 +1,79 @@
+.maindiv{
+max-width: 1440px;
+margin: auto;    
+padding: 454px;
+background: linear-gradient(0.31deg, rgba(255, 255, 255, 0.5) 11.45%, #FFFFFF 38.33%, #FFFFFF 103.5%);
+padding-top: 80px;
+padding-bottom: 80px;
+}
+
+.inner{
+max-width: 1062px;
+margin: auto;
+}
+
+.Freelance{
+font-size: 72px;
+font-weight: 600;
+line-height: 72px;
+letter-spacing: -0.02em;
+text-align: center;  
+font-family: "Poppins", sans-serif; 
+margin: 0; 
+}
+
+.Freelance span{
+background: -webkit-linear-gradient(rgb(253,148,78,1), rgb(245, 101, 101,1),rgb(29,78,216,1),rgb(255,53,101,1)) ;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent; 
+}
+
+.para{
+    font-family: "Poppins", sans-serif;  
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32.9px;
+    text-align: center;
+    margin: 0;
+    padding-top: 24px;
+       
+}
+
+.imge{
+max-width: 24px;
+text-align: center;
+
+}
+
+.one{
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 0;
+font-family: "Poppins", sans-serif;   
+
+
+}
+
+.two{
+font-family: "Poppins", sans-serif;  
+font-size: 14px;
+font-weight: 400;
+line-height: 14px;
+text-align: center;
+margin: 0;
+color: #1F2937
+}
+
+.two span{
+    color: #4B5563;
+    font-family: "Poppins", sans-serif;  
+}
+
+.three{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:24px;
+    padding-top: 24px;   
+}
