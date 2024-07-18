@@ -1,0 +1,578 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main_container{
+    width: 100%;
+    margin: 0 auto;
+    
+}
+
+.inner_container{
+    max-width: 1190;
+    padding-top: 22px;
+    width: 100%;
+    margin: 0 auto;
+
+   
+}
+
+.fluid {
+background: #1F2937;
+
+
+  }
+
+
+
+.navebar{
+    max-width: 469px;
+    width: 100%;
+   
+}
+
+.list_items{
+    color: white;
+    display: flex;
+    gap: 40px; 
+    font-family: "Poppins", sans-serif;
+    justify-content: center;
+
+}
+
+.list_items li {
+    list-style-type: none;
+}
+
+.login{
+font-size: 18px;
+font-weight: 600;
+line-height: 28px;
+text-align: left;
+color: #34D399;
+font-family: "Poppins", sans-serif;
+}
+
+.button{
+background-color: #04AA6D; 
+border: 1px solid green;
+color: white;
+max-width: 129px;
+width: 100%;
+
+border-radius: 8px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 24px;
+padding-right: 24px;
+ 
+}
+
+.Sign{
+    display: flex;
+    gap: 36px;
+    justify-content: center;
+
+}
+
+.main_flex{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    padding-top: 22px;
+    max-width: 1190px;
+    margin: auto;
+    align-items: center;
+
+ 
+   
+}
+
+
+.Dream{
+
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    justify-content: center; 
+    
+}
+
+
+.Catagory{
+    max-width: 1013px;
+    width: 100%;
+    background: #FFFFFF;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    font-family: "Poppins", sans-serif;
+    justify-content: center;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 33px;
+    left: 20%;
+}
+
+
+
+.Here{
+
+    height: 120px;
+    border: 1px solid #D1D5DB;
+}
+
+.Skills{
+    display: flex;
+    max-width: 102px;
+}
+
+
+.btn{
+max-width: 161px;
+width: 100%;
+background: #10B981;
+color: white;
+padding-top: 14px;
+padding-bottom: 14px;
+border-radius: 8px;
+display: flex;
+justify-content: center;
+border: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.heading{
+    max-width: 432px;
+    width: 100%;
+    color:#FFFFFF;
+    font-family: "Poppins", sans-serif;
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 60px;
+    text-align: left;
+    
+}
+
+.para{
+    max-width: 444px;
+    width: 100%;
+    font-family: "Poppins", sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+color: #FFFFFF;
+
+
+}
+
+.para_1{
+    font-family: "Poppins", sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+color: #FFFFFF;
+
+}
+
+.svg{
+    display: flex;
+    gap: 16px;
+}
+
+.flxxe{
+    display: flex;
+    gap: 133px;
+justify-content: center;
+padding-top: 23.11px;
+position: relative;
+position: relative;
+top: 121px;
+left: 0;
+right: 0;
+}
+
+.Location  {
+    max-width: 1013px;
+    width: 100%;
+    border-color:2px solid red ;
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+   
+}
+
+/*  second_block  */
+
+.Sudiot{
+font-family:"Poppins", sans-serif;
+font-size: 36px;
+font-weight: 800;
+line-height: 36px;
+text-align: center;
+color: #10B981;
+padding-top: 244px;
+
+
+}
+
+.Software{
+  justify-content: center;
+background: #FFFFFF;
+cursor: pointer;
+border-radius: 12px;
+display: flex;
+gap: 34px;
+flex-direction: column;
+padding-top: 31px;
+padding-bottom: 31px;
+
+}
+
+.heading_2{
+    font-family:"Poppins", sans-serif;
+font-size: 24px;
+font-weight: 700;
+line-height: 24px;
+
+}
+
+.View{
+    font-family:"Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: center;
+      
+}
+
+.svg{
+
+}
+
+.flap_x{
+    display: flex;
+    justify-content: center;
+    gap: 14px;
+    padding-top: 80px;
+  
+}
+
+.img{
+    padding-top: 160px;
+    display: flex;
+    justify-content: center;
+    gap: 141px;
+}
+
+.fly{
+    max-width: 433px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 40px;
+
+}
+
+.heading_3{
+    max-width: 404px;
+    width: 100%;
+    font-family:"Poppins", sans-serif;
+font-size: 36px;
+font-weight: 800;
+line-height: 40px;
+text-align: left;
+
+}
+
+.para_2{
+  
+    font-family:"Poppins", sans-serif;
+    max-width: 406px;
+    width: 100%;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+
+}
+
+.svg_2{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    justify-content: center;
+}
+
+.Total{
+    font-family:"Poppins", sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+
+
+}
+
+.svvggg{
+display: flex;
+align-items: center;
+gap: 54px;
+}
+
+.dfreg{
+    display: flex;
+    gap: 54px;
+
+}
+
+
+/* third_block */
+.third_heading{
+    font-family:"Poppins", sans-serif;
+font-size: 36px;
+font-weight: 800;
+line-height: 40px;
+text-align: center;
+padding-top: 160px;
+
+}
+
+.third_para{
+    font-family:"Poppins", sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+display: flex;
+justify-content: center;
+max-width: 624px;
+width: 100%;
+padding-top: 16px;
+margin: auto;
+}
+
+.Muhammad{
+    font-family:"Poppins", sans-serif;
+font-size: 24px;
+font-weight: 700;
+line-height: 32px;
+text-align: center;
+padding-top: 36px;
+
+}
+
+.skills{
+    font-family:"Poppins", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+max-width: 262px;
+width: 100%;
+margin: auto;
+}
+
+.browse{
+max-width: 329px;
+width: 100%;
+background: #FFFFFF;
+border-radius: 12px;
+display: flex;
+flex-direction: column;
+gap: 36px;
+cursor: pointer;
+margin-top: 88px;
+box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+position: relative;
+padding-bottom: 36px;
+
+}
+/* .imagell{
+    height: 100px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+} */
+.browse:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.Rectangle {
+    max-width: 100px;
+    width: 100%;
+    border-radius: 77px;
+    border: 3px; /* Add a solid style to the border */
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    top: -57px; /* Resetting top */
+    text-align: center;
+    left: 100px;
+
+}
+
+/* .Rectangle{
+max-width: 100px;    
+width: 100%;
+border-radius: 77px;
+border: 3px;
+margin: auto;
+display: flex;
+position: absolute;
+top: -37px;
+margin-left: auto;
+margin-right: auto;
+justify-items: center;
+text-align: center;
+} */
+
+.More{
+max-width: 139px;
+width: 100%;
+padding-top: 12px;
+padding-bottom: 12px;
+padding-left:24px ;
+padding-right: 24px;
+border-radius: 8px;
+color:#10B981;
+margin: auto;
+display: flex;
+justify-content: center;
+cursor: pointer;
+border-color: white;
+}
+
+.colum{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.class{
+  display: flex;
+  justify-content: center;
+  gap: 36px;
+
+}
+
+
+
+
+
+/* four_block */
+.than{
+    max-width: 688px;
+    width: 100%;
+    margin: auto;
+   font-family: "Inter", sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 40px;
+    text-align: center;
+    padding-top: 160px;
+    
+}
+
+.that{
+    font-family: "Inter", sans-serif;
+    padding-top: 32px;
+font-size: 18px;
+font-weight: 400;
+line-height: 18px;
+text-align: center;
+
+}
+
+.svg_55{
+    display: flex;
+    justify-content: center;
+    gap: 29.59px;
+    padding-top: 81px;
+  
+}
+
+.svg_56{
+    display: flex;
+    justify-content: center;
+    gap: 30.59px;
+    padding-top: 20.74px;
+    padding-bottom: 159.74px;
+}
+
+.Contact{
+font-family: "Inter", sans-serif;
+color: #FFFFFF;
+font-size: 36px;
+font-weight: 800;
+line-height: 40px;
+text-align: center;
+padding-top: 128px;
+  
+}
+
+.Finding{
+max-width: 1061px;
+width: 100%;
+font-family: "Inter", sans-serif;
+color: #FFFFFF;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+margin: auto;
+padding-top: 56px;
+
+}
+
+.viewBox{
+    display: flex;
+    justify-content: center;
+    gap: 15.54px;
+    padding-top: 56px;
+}
+
+.svg_00{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.lot{
+    font-family: "Inter", sans-serif;
+    color: #FFFFFF;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+
+}
+
+.svg_12{
+    display: flex;
+    justify-content: center;
+    gap: 152px;
+    padding-top: 80.54px;
+    padding-bottom: 80px;
+}
